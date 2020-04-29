@@ -12,4 +12,5 @@ func main() {
 	fmt.Printf("%d円\n", price)
 }
 
-//
+// go vet
+// 組み込みの静的解析コマンド
