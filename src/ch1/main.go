@@ -17,3 +17,22 @@ func main() {
 
 // golint
 // コーディングスタイルの問題を検出する
+
+// errcheck
+// エラーのチェックを行っているかを確認してくれる
+
+// staticcheck
+// サードパーティ版の `go vet`
+// `go vet` より細かい
+
+// golangci-lint
+// `golint` の類似
+// `golint` よりスター数が多いためこちらが主流になっていく可能性も
+
+// reviewdog
+// GitHubのコメントにLintで指摘された箇所にたいしてコメントをつけてくれる
+// https://swet.dena.com/entry/2018/09/18/142413
+
+// delve
+// Go専用のデバッガ
+// IntelliJやGoLandがあれば必要ないが、使い方を見てみるのはあり
