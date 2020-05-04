@@ -1,9 +1,11 @@
 package main
 
 import (
-	//"./ch1"
-	//"./ch2"
-	"./ch3"
+	//"mercari-go/src/ch`"
+	//"mercari-go/src/ch1"
+	//"mercari-go/src/ch3"
+
+	"mercari-go/src/ch4"
 )
 
 func main() {
@@ -11,5 +13,7 @@ func main() {
 
 	//ch2.Exec()
 
-	ch3.Exec()
+	//ch3.Exec()
+
+	ch4.Exec()
 }
