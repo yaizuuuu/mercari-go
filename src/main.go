@@ -4,8 +4,8 @@ import (
 	//"mercari-go/src/ch`"
 	//"mercari-go/src/ch1"
 	//"mercari-go/src/ch3"
-
-	"mercari-go/src/ch4"
+	//"mercari-go/src/ch4"
+	"mercari-go/src/ch5"
 )
 
 func main() {
@@ -15,5 +15,11 @@ func main() {
 
 	//ch3.Exec()
 
-	ch4.Exec()
+	//ch4.Exec()
+
+	//ch5.Exec()
+
+	//ch5.Mycat()
+
+	ch5.Convert()
 }
