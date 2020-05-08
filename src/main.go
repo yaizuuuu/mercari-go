@@ -8,7 +8,8 @@ import (
 	//"mercari-go/src/ch5"
 	//"mercari-go/src/ch5"
 	//"mercari-go/src/ch5"
-	"mercari-go/src/ch6"
+	//"mercari-go/src/ch6"
+	"mercari-go/src/ch7"
 )
 
 func main() {
@@ -26,5 +27,7 @@ func main() {
 
 	//ch5.Convert()
 
-	ch6.Exec()
+	//ch6.Exec()
+
+	ch7.Exec2()
 }
